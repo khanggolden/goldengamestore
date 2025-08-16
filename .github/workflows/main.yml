@@ -19,4 +19,4 @@ jobs:
       - name: Install dependencies
         run: npm install notion-to-website
       - name: Sync Notion to HTML
-        run: npx notion-to-website --url "https://www.notion.so/khanggolden/Golden-Games-Store-1c282f39348180b0bd13d6d7c719b83f?source=copy_link"
+        run: npx notion-to-website --url "https://www.notion.so/khanggolden/Golden-Games-Store-1c282f39348180b0bd13d6d7c719b83f"
